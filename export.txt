@@ -1,0 +1,10 @@
+Vault Export
+Date: 2025-12-06 16:47:51
+Total Records: 1
+File: export.txt
+
+ID: 100
+Name: Hamad
+Created: 2025-12-06 16:46:54
+Modified: 2025-12-06 16:47:25
+-------------------------
